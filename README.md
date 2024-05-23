@@ -1,6 +1,6 @@
 # Big Data Labs
 
-Big Data Labs using R, Pythin and Java
+Big Data Labs using R, Python and Java
 
 ## Contributors:
 [Donia Gameel](https://github.com/DoniaGameel)
